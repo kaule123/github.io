@@ -1,0 +1,40 @@
+body {
+    background: linear-gradient(90deg, rgb(226, 226, 231) 0%, rgb(153, 153, 158) 35%, rgb(238, 252, 255) 100%);
+    font-size: 17px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.wrapper {
+    margin: 25px auto;
+    padding: 25px;
+    max-width: 860px;
+    background-color: white;
+}
+.title {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    text-align: center;
+    font-size: 2em;
+    color: rgb(2, 45, 80);
+    font-weight: 700;
+}
+.description {
+    margin-bottom: 25px;
+}
+.item {
+    margin-bottom: 25px;
+
+}
+.item__title {
+    margin-bottom: 15px;
+    font-size: 1.5em;
+    color: rgb(19, 1, 36);
+    text-align: center;
+    font-weight: 700;
+}
+.item__text {
+    color: rgb(19, 19, 19);
+}
+.footer {
+    font-weight: 600;
+}
